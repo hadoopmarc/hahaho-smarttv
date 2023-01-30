@@ -18,16 +18,19 @@ envisions applying technology as part of a making process that is
 'fundamental to what it means to be human'.
 
 In this git repository, the author and (hopefully) collaborators investigate what options exist to own a smart TV that does not suffer
-from the objections listed above. The investigation is carried out
-under the umbrella of the [HaHaHo Makers Lab Utrecht](https://www.meetup.com/hahaho-sharingtechnology-innovative-tech-meetings/events/290854372/). Some of the repo content is necessarily aimed at the
-access to Dutch television service providers.
+from the objections listed above. Many software and maker projects for
+smart TV have preceded the current one. Added value of the current project being aimed at:
 
-Rights to the name `HaHaHo` belong to [the HaHaHo Foundation](https://www.polyprax.nl/hahaho/over-hahaho/) (in dutch).
+* explicitly addressing access to Dutch television service providers
+* providing a long term alternative to a commercial smart-TV rather
+than a temporary add-on to an old dumb TV
+
+The investigation is carried out under the umbrella of the [HaHaHo Makers Lab Utrecht](https://www.meetup.com/hahaho-sharingtechnology-innovative-tech-meetings/events/290854372/). Rights to the name `HaHaHo` belong to [the HaHaHo Foundation](https://www.polyprax.nl/hahaho/over-hahaho/) (in dutch).
 
 ## Table of contents
 
-* Requirements
-* Open source smart TV projects
+* [Requirements](docs/requirements.md)
+* [Open source smart TV projects](docs/opensource.md)
 * Hacking commercial smart TV's
 * Rating the maker's options 
 
