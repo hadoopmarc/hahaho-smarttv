@@ -22,4 +22,4 @@ wireless keyboard + touchpad
 * acceptable standby power usage (aim for 0.5 W excluding screen)
 * open source with long term support, at least supported by a
 thriving community
-* meets legal requirements, in particular regarding the use of protected content and the interplay with providers of streaming services. To be clear, lots of documentation on tinkering with smart TV's addresses the use of VPN connections to defeat discovery of illegal use of protected content. However, [gaining root access to a smart TV](docs/hacking.md) is [not an illegal act by itself](https://en.wikipedia.org/wiki/IOS_jailbreaking#Legality).
+* meets legal requirements, in particular regarding the use of protected content and the interplay with providers of streaming services. To be clear, lots of documentation on tinkering with smart TV's addresses the use of VPN connections to defeat discovery of illegal use of protected content. However, [gaining root access to a smart TV](hacking.md#Rooting) is [not an illegal act by itself](https://en.wikipedia.org/wiki/IOS_jailbreaking#Legality).
