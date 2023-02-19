@@ -11,6 +11,5 @@ A bewildering number of [software projects exist](https://www.smarthomebeginner.
 * [kodi](https://github.com/xbmc/xbmc)
 * [jellyfin](https://github.com/jellyfin/jellyfin)
 
-With Kodi being the most mature project and with a promising [set of plugins for Dutch TV service providers](https://github.com/dut-iptv/dut-iptv.github.io) available, we stop gathering more information on maker's smart-TV projects and start out experimenting with Kodi.
 
 
