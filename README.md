@@ -3,12 +3,12 @@ Investigate options for a maker's smart TV and document the selected design
 
 ## Table of contents
 
-* Introduction
+* [Introduction](README#introduction)
 * [Requirements](docs/requirements.md)
 * [Commercial devices](docs/commercial.md)
 * [Hacking a commercial device](docs/hacking.md)
 * [Open source smart TV projects](docs/opensource.md)
-* Rating the maker's options
+* [Rating the maker's options](docs/rating.md)
 
 ## Introduction
 Introduced around 2015, smart TV's have become the dominant form of television sets in 2023. Although smart TV's may have enriched the watching experience of their users compared to traditional TV sets in some ways, there are two main objections against smart TV's:
