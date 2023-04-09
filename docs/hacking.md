@@ -6,7 +6,7 @@ A commercial smart TV or mediabox already contains the required hardware, operat
 2. Rooting a device. In case of a smart TV, disable all services the user does not approve of. In case of a mediabox, reuse it as if it were an open hardware platform.
 
 ## Fencing
-The crudest possible measure for fencing a commercial smart TV is not giving it internet access (or only during initial setup if required). This will surely ban all advertizing and monitoring and provide the user with a good old dumb TV at a bargain price. Still beware of [TV types that persist in bothering the user to configure the network](https://eu.community.samsung.com/t5/tv/network-notification/td-p/4563968). For modern mediaboxes this option is not available, because it depends on the internet for its TV video streams.
+The crudest possible measure for fencing a commercial smart TV is not giving it internet access (or only during initial setup if required). This will surely ban all advertizing and monitoring and provide the user with a good old dumb TV at a bargain price. Still beware of [TV types that persist in bothering the user to configure the network](https://eu.community.samsung.com/t5/tv/network-notification/td-p/4563968), see also [here](https://news.ycombinator.com/item?id=35484594). For modern mediaboxes this option is not available, because it depends on the internet for its TV video streams.
 
 A more subtle type of fencing is to prevent the commercial device from fetching real-time advertizements or pushing monitoring data. While this can be realized in several ways, two ones stick out in popularity:
 
