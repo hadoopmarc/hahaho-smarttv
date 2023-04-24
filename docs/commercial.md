@@ -1,16 +1,14 @@
-# Commercial smart TV's and mediaboxes
+# Commercial smart TV's and media streaming devices
 
-Commercial devices relevant to this project fall apart in commercial smart TV's and mediaboxes.
+Commercial devices relevant to this project fall apart in commercial smart TV's, provider owned mediaboxes and user owned streaming media devices.
 
 ## Smart TV's
 Modern smart TV's meet all the *functional* requirements of this project. They can play both DVBC-C cable TV (requiring a so-called CI+ module from the TV service provider) and TV services on the internet (the latter usually at lower resolution to stimulate the use of the service provider's prime offering).
 
 ## Mediaboxes in The Netherlands
-All major Dutch TV service providers offer interactive TV through leased mediaboxes that meet all the *functional* requirements of this project. With these boxes they gain the insight in end user viewing behavior rather than the smart TV manufacturer.
+All major Dutch TV service providers offer interactive TV through leased mediaboxes that meet all the *functional* requirements of this project. With these boxes the insight in end user viewing behavior goes to the service provider rather than to the smart TV manufacturer.
 
 The table below lists the major Dutch TV service providers that provide twisted pair copper, coax or glass fiber network access with internet and TV:
-
-&nbsp;
 
 |Provider  | Type          | Mediabox | Operating system
 |:---------|:--------------|:----------|:--
@@ -22,4 +20,17 @@ The table below lists the major Dutch TV service providers that provide twisted 
 |Online.nl | reseller      | [Amino aria 7](https://www.amino.tv/aria-7/) | Linux (no installs)
 |Youfone   | reseller      | [Amino amigo x7](https://www.amino.tv/amigo-7x/)  | AndroidTV
 
-ToDo: Add customer-owned mediaboxes like the Nokia Streaming Box 8000 and the Google Chromecast.
+## User owned media streaming devices
+Popular devices in this category in The Netherlands are:
+
+* Google Chromecast series
+* NVidia Shhield
+* Nokia Streaming Box 8000 series
+
+These are all AndroidTV devices for which the manufacturer provides
+firmware updates during a few years (like for Android phones). The
+user does not have root access to the device but it is possible to "sideload" APK packages rather than install them from the Google
+PlayStore.
+
+Roku streaming devices and Amazon Fire TV devices are
+popular too, outside Europe.

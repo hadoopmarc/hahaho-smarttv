@@ -21,10 +21,10 @@ There does not exist a general method for getting root access to the operating s
 
 Note that a smart TV or mediabox is an applicance rather than a general computer system. This implies that the device's firmware both includes the operating system - [often with an open source kernel and user space modules](https://github.com/vitalets/awesome-smart-tv) - and all device drivers, which are mostly proprietary.
 
-Although rooting a commercial device might be a rewarding project for a maker, it does not meet the project goal of realizing a system with long term support. In particular, rooting the device implies loosing the ability to receive firmware updates from the manufacterer or service provider (this would undo the rooting). This on its turn implies that the software of the system ages and the number of vulnerabilities unavoidably increases. So, if you want to pursue the approach of rooting a device, do it in a responsible way such that it can not harm others. In particular:
+Although rooting a commercial device might be a rewarding project for a maker, it does not meet the project goal of realizing a system with long term support. In particular, rooting the device implies losing the ability to receive firmware updates from the manufacterer or service provider (this would undo the rooting). This on its turn implies that the software of the system ages and the number of vulnerabilities unavoidably increases. So, if you want to pursue the approach of rooting a device, do it in a responsible way such that it can not harm others. In particular:
 
 * put the rooted device in an isolated VLAN of your home network
 * configure the router of your home network such that the rooted device can only reach the internet addresses it needs (such as addresses of video streaming service providers, appstores, OS updates repositories, etc.)
 
-Compare these terms with the terms for obtaining a firearm license. A rooted device can easily become an instrument of malware and create havoc on the internet.
+You can compare these terms with the terms for obtaining a firearm license. A rooted device can easily become an instrument of malware and create havoc on the internet.
 

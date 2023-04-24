@@ -11,5 +11,8 @@ A bewildering number of [software projects exist](https://www.smarthomebeginner.
 * [kodi](https://github.com/xbmc/xbmc)
 * [jellyfin](https://github.com/jellyfin/jellyfin)
 
+Also of interest is [LineageOS](https://lineageos.org/), which provides Android firmware for various supported devices. Open hardware devices for streaming video are not (yet) supported, but an unofficial port for AndroidTV on the Raspberry Pi is available from [https://konstakang.com/tag/LineageOS/](https://konstakang.com/tag/LineageOS/).
+
+
 
 
